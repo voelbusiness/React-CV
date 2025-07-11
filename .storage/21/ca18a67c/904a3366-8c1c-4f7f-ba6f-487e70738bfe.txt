@@ -1,0 +1,2 @@
+$ cp "/workspace/uploads/pb (1).jpg" public/assets/profile.jpg
+cp: cannot create regular file 'public/assets/profile.jpg': No such file or directory
